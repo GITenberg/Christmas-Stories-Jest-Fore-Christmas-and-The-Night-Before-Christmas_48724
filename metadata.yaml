@@ -1,4 +1,8 @@
 _repo: Christmas-Stories-Jest-Fore-Christmas-and-The-Night-Before-Christmas_48724
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Moore, Clement Clarke
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/238
     wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48724#Christmas-Stories-Jest-Fore-Christmas-and-The-Night-Before-Christmas
 gutenberg_issued: '2015-04-22'
 gutenberg_type: Text
 identifiers:
